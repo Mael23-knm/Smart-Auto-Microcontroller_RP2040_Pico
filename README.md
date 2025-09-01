@@ -1,8 +1,8 @@
-Ultraschall-gesteuertes Fahrzeug mit LED-Matrix
+# Ultraschall-gesteuertes Fahrzeug mit LED-Matrix
 
 Dieses Projekt demonstriert die Steuerung eines Fahrzeugs mithilfe eines Ultraschallsensors, wobei der Abstand zu Hindernissen in Echtzeit auf einer LED-Matrix visualisiert wird. Ziel ist es, das Fahrzeug sicher zu bewegen und vor einer Wand zu stoppen.
 
-Funktionen:
+# Funktionen:
 
 Ultraschall-Abstandsmessung und LED-Visualisierung
 
@@ -12,7 +12,7 @@ Erkennung und Behandlung fehlerhafter Sensorwerte
 
 Optisches Feedback beim Erreichen des Zielabstands
 
-Technische Details:
+# Technische Details:
 
 RP2040 Mikrocontroller
 
